@@ -23,10 +23,14 @@ div {
 
 .top-text {
     color: hotpink;
+    font-size: x-small;
+    text-decoration: line-through;
 }
 
 .bottom-text {
     color: orange;
+    font-size: large;
+    text-align: center;
 }
 
 .page.header {
@@ -35,4 +39,12 @@ div {
 
 .page#paragraph {
     background-color: black;
+}
+
+img {
+    width: 200px;
+    height: inherit;
+    border: 2px;
+    border-style: dotted;
+    border-radius: 50px;
 }
