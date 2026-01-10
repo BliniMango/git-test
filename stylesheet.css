@@ -1,0 +1,38 @@
+* {
+    background-color: purple;
+}
+
+div {
+    color: yellow;
+}
+
+.text-alert {
+    color: red;
+}
+
+#div-title {
+    color: white;
+    background-color: blue;
+}
+
+.top-text,
+.bottom-text {
+    color: white;
+    background-color: green;
+}
+
+.top-text {
+    color: hotpink;
+}
+
+.bottom-text {
+    color: orange;
+}
+
+.page.header {
+    color: aqua;
+}
+
+.page#paragraph {
+    background-color: black;
+}
