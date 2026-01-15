@@ -48,3 +48,23 @@ img {
     border-style: dotted;
     border-radius: 50px;
 }
+
+/* rule 1 */
+#subsection {
+    background-color: yellow;
+    color: blue;
+
+}
+
+/* rule 2 */
+.main #subsection {
+    color: red;
+}
+
+.box {
+    width: 500px;
+    margin: 0 auto;
+    border: 5cm;
+    border-color: aqua;
+    border-radius: 2px;
+}
