@@ -1,70 +1,38 @@
-* {
-    background-color: purple;
-}
-
 div {
-    color: yellow;
-}
-
-.text-alert {
-    color: red;
-}
-
-#div-title {
-    color: white;
-    background-color: blue;
-}
-
-.top-text,
-.bottom-text {
-    color: white;
-    background-color: green;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 15px;
+    color: rgb(0, 58, 165);
 }
 
 .top-text {
-    color: hotpink;
-    font-size: x-small;
-    text-decoration: line-through;
+    background-color: lightblue;
 }
 
 .bottom-text {
-    color: orange;
-    font-size: large;
-    text-align: center;
+    background-color: lightgreen;
 }
 
-.page.header {
-    color: aqua;
+.highlight {
+    background-color: yellow;
 }
 
-.page#paragraph {
-    background-color: black;
+button {
+    padding: 10px;
+    margin: 0 5px;  
+}
+
+.no {
+    border: 5;
+    border-color: red;
+}
+
+.yes {
+    border: 5;
+    border-color: green;
 }
 
 img {
     width: 200px;
-    height: inherit;
-    border: 2px;
-    border-style: dotted;
-    border-radius: 50px;
-}
-
-/* rule 1 */
-#subsection {
-    background-color: yellow;
-    color: blue;
-
-}
-
-/* rule 2 */
-.main #subsection {
-    color: red;
-}
-
-.box {
-    width: 500px;
-    margin: 0 auto;
-    border: 5cm;
-    border-color: aqua;
-    border-radius: 2px;
+    height: auto;
 }
